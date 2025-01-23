@@ -52,3 +52,26 @@ section p {
   margin-top: 16px;
   line-height: 1.8;
 }
+
+footer {
+  border-top: 1px solid #ccc;
+  padding: 64px 0;
+  text-align: center;
+}
+
+small {
+  color: #aaa;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: .7;
+}
+
+footer img {
+  margin-top: 16px;
+}
